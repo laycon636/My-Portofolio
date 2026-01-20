@@ -1,0 +1,11 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.second-section{
+    background-color: red;
+}
+.skill-icon{
+    width: 160px;
+    height: 160px;
+}
